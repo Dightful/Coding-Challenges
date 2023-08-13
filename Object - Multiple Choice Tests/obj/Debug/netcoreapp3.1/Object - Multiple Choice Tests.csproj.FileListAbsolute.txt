@@ -1,0 +1,13 @@
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Object - Multiple Choice Tests\bin\Debug\netcoreapp3.1\Object - Multiple Choice Tests.exe
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Object - Multiple Choice Tests\bin\Debug\netcoreapp3.1\Object - Multiple Choice Tests.deps.json
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Object - Multiple Choice Tests\bin\Debug\netcoreapp3.1\Object - Multiple Choice Tests.runtimeconfig.json
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Object - Multiple Choice Tests\bin\Debug\netcoreapp3.1\Object - Multiple Choice Tests.runtimeconfig.dev.json
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Object - Multiple Choice Tests\bin\Debug\netcoreapp3.1\Object - Multiple Choice Tests.dll
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Object - Multiple Choice Tests\bin\Debug\netcoreapp3.1\Object - Multiple Choice Tests.pdb
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Object - Multiple Choice Tests\obj\Debug\netcoreapp3.1\Object - Multiple Choice Tests.csprojAssemblyReference.cache
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Object - Multiple Choice Tests\obj\Debug\netcoreapp3.1\Object - Multiple Choice Tests.AssemblyInfoInputs.cache
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Object - Multiple Choice Tests\obj\Debug\netcoreapp3.1\Object - Multiple Choice Tests.AssemblyInfo.cs
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Object - Multiple Choice Tests\obj\Debug\netcoreapp3.1\Object - Multiple Choice Tests.csproj.CoreCompileInputs.cache
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Object - Multiple Choice Tests\obj\Debug\netcoreapp3.1\Object - Multiple Choice Tests.dll
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Object - Multiple Choice Tests\obj\Debug\netcoreapp3.1\Object - Multiple Choice Tests.pdb
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Object - Multiple Choice Tests\obj\Debug\netcoreapp3.1\Object - Multiple Choice Tests.genruntimeconfig.cache
