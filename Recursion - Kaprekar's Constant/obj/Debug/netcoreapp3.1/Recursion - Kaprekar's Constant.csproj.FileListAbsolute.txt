@@ -1,0 +1,13 @@
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Recursion - Kaprekar's Constant\bin\Debug\netcoreapp3.1\Recursion - Kaprekar's Constant.exe
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Recursion - Kaprekar's Constant\bin\Debug\netcoreapp3.1\Recursion - Kaprekar's Constant.deps.json
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Recursion - Kaprekar's Constant\bin\Debug\netcoreapp3.1\Recursion - Kaprekar's Constant.runtimeconfig.json
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Recursion - Kaprekar's Constant\bin\Debug\netcoreapp3.1\Recursion - Kaprekar's Constant.runtimeconfig.dev.json
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Recursion - Kaprekar's Constant\bin\Debug\netcoreapp3.1\Recursion - Kaprekar's Constant.dll
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Recursion - Kaprekar's Constant\bin\Debug\netcoreapp3.1\Recursion - Kaprekar's Constant.pdb
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Recursion - Kaprekar's Constant\obj\Debug\netcoreapp3.1\Recursion - Kaprekar's Constant.csprojAssemblyReference.cache
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Recursion - Kaprekar's Constant\obj\Debug\netcoreapp3.1\Recursion - Kaprekar's Constant.AssemblyInfoInputs.cache
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Recursion - Kaprekar's Constant\obj\Debug\netcoreapp3.1\Recursion - Kaprekar's Constant.AssemblyInfo.cs
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Recursion - Kaprekar's Constant\obj\Debug\netcoreapp3.1\Recursion - Kaprekar's Constant.csproj.CoreCompileInputs.cache
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Recursion - Kaprekar's Constant\obj\Debug\netcoreapp3.1\Recursion - Kaprekar's Constant.dll
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Recursion - Kaprekar's Constant\obj\Debug\netcoreapp3.1\Recursion - Kaprekar's Constant.pdb
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Recursion - Kaprekar's Constant\obj\Debug\netcoreapp3.1\Recursion - Kaprekar's Constant.genruntimeconfig.cache
