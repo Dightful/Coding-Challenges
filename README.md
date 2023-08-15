@@ -1,6 +1,6 @@
 # Coding-Challenges
 
-A Selection of edabit challenges completing, varying from python to C#
+A Selection of very hard edabit challenges completing, varying from python to C#
 
 C#:
 
