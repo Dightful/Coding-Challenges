@@ -7,3 +7,6 @@ https://edabit.com/challenge/uBswCFuxdMML98mPa
 
 Objects - Multiple Choice Tests
 https://edabit.com/challenge/thXMEAWNWyk9cCZcM
+
+Conditions - Password Validation
+https://edabit.com/challenge/etT7orqDDXJF2zGYM
