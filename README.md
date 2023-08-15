@@ -10,3 +10,6 @@ https://edabit.com/challenge/thXMEAWNWyk9cCZcM
 
 Conditions - Password Validation
 https://edabit.com/challenge/etT7orqDDXJF2zGYM
+
+Math - The Smallest Number
+https://edabit.com/challenge/jgHNFWFGkiTJpueTK
