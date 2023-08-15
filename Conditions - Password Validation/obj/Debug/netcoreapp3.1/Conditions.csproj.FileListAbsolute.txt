@@ -1,0 +1,13 @@
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Conditions\obj\Debug\netcoreapp3.1\Conditions.csprojAssemblyReference.cache
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Conditions\obj\Debug\netcoreapp3.1\Conditions.AssemblyInfoInputs.cache
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Conditions\obj\Debug\netcoreapp3.1\Conditions.AssemblyInfo.cs
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Conditions\obj\Debug\netcoreapp3.1\Conditions.csproj.CoreCompileInputs.cache
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Conditions\bin\Debug\netcoreapp3.1\Conditions.exe
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Conditions\bin\Debug\netcoreapp3.1\Conditions.deps.json
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Conditions\bin\Debug\netcoreapp3.1\Conditions.runtimeconfig.json
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Conditions\bin\Debug\netcoreapp3.1\Conditions.runtimeconfig.dev.json
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Conditions\bin\Debug\netcoreapp3.1\Conditions.dll
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Conditions\bin\Debug\netcoreapp3.1\Conditions.pdb
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Conditions\obj\Debug\netcoreapp3.1\Conditions.dll
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Conditions\obj\Debug\netcoreapp3.1\Conditions.pdb
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Conditions\obj\Debug\netcoreapp3.1\Conditions.genruntimeconfig.cache
