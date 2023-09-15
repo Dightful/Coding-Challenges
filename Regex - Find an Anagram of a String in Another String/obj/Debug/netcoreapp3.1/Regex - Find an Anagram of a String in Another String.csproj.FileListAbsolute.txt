@@ -1,0 +1,13 @@
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Regex - Find an Anagram of a String in Another String\bin\Debug\netcoreapp3.1\Regex - Find an Anagram of a String in Another String.exe
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Regex - Find an Anagram of a String in Another String\bin\Debug\netcoreapp3.1\Regex - Find an Anagram of a String in Another String.deps.json
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Regex - Find an Anagram of a String in Another String\bin\Debug\netcoreapp3.1\Regex - Find an Anagram of a String in Another String.runtimeconfig.json
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Regex - Find an Anagram of a String in Another String\bin\Debug\netcoreapp3.1\Regex - Find an Anagram of a String in Another String.runtimeconfig.dev.json
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Regex - Find an Anagram of a String in Another String\bin\Debug\netcoreapp3.1\Regex - Find an Anagram of a String in Another String.dll
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Regex - Find an Anagram of a String in Another String\bin\Debug\netcoreapp3.1\Regex - Find an Anagram of a String in Another String.pdb
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Regex - Find an Anagram of a String in Another String\obj\Debug\netcoreapp3.1\Regex - Find an Anagram of a String in Another String.csprojAssemblyReference.cache
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Regex - Find an Anagram of a String in Another String\obj\Debug\netcoreapp3.1\Regex - Find an Anagram of a String in Another String.AssemblyInfoInputs.cache
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Regex - Find an Anagram of a String in Another String\obj\Debug\netcoreapp3.1\Regex - Find an Anagram of a String in Another String.AssemblyInfo.cs
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Regex - Find an Anagram of a String in Another String\obj\Debug\netcoreapp3.1\Regex - Find an Anagram of a String in Another String.csproj.CoreCompileInputs.cache
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Regex - Find an Anagram of a String in Another String\obj\Debug\netcoreapp3.1\Regex - Find an Anagram of a String in Another String.dll
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Regex - Find an Anagram of a String in Another String\obj\Debug\netcoreapp3.1\Regex - Find an Anagram of a String in Another String.pdb
+D:\0Good\coding\c#\VS\Edabits\VeryHardOfType\Regex - Find an Anagram of a String in Another String\obj\Debug\netcoreapp3.1\Regex - Find an Anagram of a String in Another String.genruntimeconfig.cache
