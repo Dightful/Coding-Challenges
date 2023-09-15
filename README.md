@@ -16,6 +16,9 @@ https://edabit.com/challenge/etT7orqDDXJF2zGYM
 Math - The Smallest Number
 https://edabit.com/challenge/jgHNFWFGkiTJpueTK
 
+Lists/Regex - Find an Anagram of a String in Another String
+https://edabit.com/challenge/ybAba6PYxnGNW7w5r
+
 Python:
 
 Classes - Rectangle Collision Detection
