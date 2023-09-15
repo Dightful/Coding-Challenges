@@ -1,0 +1,13 @@
+D:\0Good\coding\c#\VS\Edabits\FibonacciWordVryHard\bin\Debug\netcoreapp3.1\FibonacciWordVryHard.exe
+D:\0Good\coding\c#\VS\Edabits\FibonacciWordVryHard\bin\Debug\netcoreapp3.1\FibonacciWordVryHard.deps.json
+D:\0Good\coding\c#\VS\Edabits\FibonacciWordVryHard\bin\Debug\netcoreapp3.1\FibonacciWordVryHard.runtimeconfig.json
+D:\0Good\coding\c#\VS\Edabits\FibonacciWordVryHard\bin\Debug\netcoreapp3.1\FibonacciWordVryHard.runtimeconfig.dev.json
+D:\0Good\coding\c#\VS\Edabits\FibonacciWordVryHard\bin\Debug\netcoreapp3.1\FibonacciWordVryHard.dll
+D:\0Good\coding\c#\VS\Edabits\FibonacciWordVryHard\bin\Debug\netcoreapp3.1\FibonacciWordVryHard.pdb
+D:\0Good\coding\c#\VS\Edabits\FibonacciWordVryHard\obj\Debug\netcoreapp3.1\FibonacciWordVryHard.csprojAssemblyReference.cache
+D:\0Good\coding\c#\VS\Edabits\FibonacciWordVryHard\obj\Debug\netcoreapp3.1\FibonacciWordVryHard.AssemblyInfoInputs.cache
+D:\0Good\coding\c#\VS\Edabits\FibonacciWordVryHard\obj\Debug\netcoreapp3.1\FibonacciWordVryHard.AssemblyInfo.cs
+D:\0Good\coding\c#\VS\Edabits\FibonacciWordVryHard\obj\Debug\netcoreapp3.1\FibonacciWordVryHard.csproj.CoreCompileInputs.cache
+D:\0Good\coding\c#\VS\Edabits\FibonacciWordVryHard\obj\Debug\netcoreapp3.1\FibonacciWordVryHard.dll
+D:\0Good\coding\c#\VS\Edabits\FibonacciWordVryHard\obj\Debug\netcoreapp3.1\FibonacciWordVryHard.pdb
+D:\0Good\coding\c#\VS\Edabits\FibonacciWordVryHard\obj\Debug\netcoreapp3.1\FibonacciWordVryHard.genruntimeconfig.cache
