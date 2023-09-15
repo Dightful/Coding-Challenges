@@ -1,4 +1,4 @@
-# Coding-Challenges
+# Very Hard Coding-Challenges on Edabit
 
 A Selection of very hard edabit challenges completing, varying from python to C#
 
