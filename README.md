@@ -19,6 +19,9 @@ https://edabit.com/challenge/jgHNFWFGkiTJpueTK
 Lists/Regex - Find an Anagram of a String in Another String
 https://edabit.com/challenge/ybAba6PYxnGNW7w5r
 
+Numbers - Fibonacci Word
+https://edabit.com/challenge/8JegGd37XazwMJvs6
+
 Python:
 
 Classes - Rectangle Collision Detection
